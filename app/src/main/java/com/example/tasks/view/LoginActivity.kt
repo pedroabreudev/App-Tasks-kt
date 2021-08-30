@@ -19,7 +19,7 @@ class LoginActivity : AppCompatActivity(), View.OnClickListener {
 
         mViewModel = ViewModelProvider(this).get(LoginViewModel::class.java)
 
-        // Inicializa eventos
+        // Inicializa eventos 11
         setListeners();
         observe()
 
