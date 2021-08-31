@@ -15,7 +15,7 @@ class RetrofitClient private constructor() {
 
             if (!Companion::retrofit.isInitialized)
                 retrofit = Retrofit.Builder()
-                    .baseUrl("baseurl")
+                    .baseUrl(baseurl)
                     .client(httpClient.build())
                     .addConverterFactory(GsonConverterFactory.create())
                     .build()
