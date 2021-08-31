@@ -21,7 +21,6 @@ class PersonRepository {
             }
             override fun onResponse(call: Call<HeaderModel>, response: Response<HeaderModel>) {
                 if (response.code() != 200){
-                    
                 }
                 val s = ""
                 response.body()?.let { listener.onSuccess(it) }
