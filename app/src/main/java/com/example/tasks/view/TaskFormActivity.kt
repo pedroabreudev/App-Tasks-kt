@@ -97,6 +97,7 @@ class TaskFormActivity : AppCompatActivity(), View.OnClickListener,
 
         val calendarStr = mDateFormat.format(calendar.time)
         button_date.text = calendarStr
+        //
     }
 
 }
