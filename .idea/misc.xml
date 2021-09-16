@@ -8,11 +8,12 @@
         <entry key="..\:/Learning/Udemy/Desenvolvimento de Aplicativos Android usando Kotlin/App-Kotlin-Tasks/UdemyKotlinAndroid-master/Apps/TasksTemplate/app/src/main/res/layout/activity_task_form.xml" value="0.3546875" />
         <entry key="..\:/Learning/Udemy/Desenvolvimento de Aplicativos Android usando Kotlin/App-Kotlin-Tasks/UdemyKotlinAndroid-master/Apps/TasksTemplate/app/src/main/res/layout/app_bar_main.xml" value="0.3546875" />
         <entry key="..\:/Learning/Udemy/Desenvolvimento de Aplicativos Android usando Kotlin/App-Kotlin-Tasks/UdemyKotlinAndroid-master/Apps/TasksTemplate/app/src/main/res/layout/fragment_all_tasks.xml" value="0.3546875" />
+        <entry key="..\:/Learning/Udemy/Desenvolvimento de Aplicativos Android usando Kotlin/App-Kotlin-Tasks/UdemyKotlinAndroid-master/Apps/TasksTemplate/app/src/main/res/layout/row_task_list.xml" value="0.75" />
       </map>
     </option>
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
